@@ -1,0 +1,22 @@
+h1 {
+  color: hotpink;
+  text-align: center;
+  text-decoration-line: underline;
+}
+
+h2 {
+  color: gold;
+  text-decoration-line: underline;
+}
+body {
+  font: normal 15px Arial, Helvetica, sans-serif;
+
+  background-color: lightgray;
+
+  line-height: 1.6em;
+  margin: 0.5;
+  padding: 5mm;
+}
+p {
+  color: rgb(111, 0, 255);
+}
